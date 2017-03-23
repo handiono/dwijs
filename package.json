@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "app.js",
+  "author": {
+    "name": "user1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mssql": "^3.3.0"
+  }
+}
